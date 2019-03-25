@@ -1,0 +1,14 @@
+.container {
+    padding-top: 50px;
+    text-align: center;
+}
+
+#catpic {
+    height: 200px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
